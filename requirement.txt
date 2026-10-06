@@ -1,0 +1,7 @@
+langchain
+langchain_groq
+langchain_core
+fastapi 
+uvicorn
+langserve[all]
+sse_starlette
